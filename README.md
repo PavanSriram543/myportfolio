@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<!-- npm install --legacy-peer-eps
+npm install @react-three
+yarn add @react-three/drei
+yarn add maath
+yarn add react-tilt
+yarn add react-vertical-timeline-component
+yarn add @emailjs/browser-motion
+yarn add react-router-dom
+-->
